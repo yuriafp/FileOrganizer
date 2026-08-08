@@ -1,0 +1,8 @@
+{
+  "order": 5,
+  "stack": [".NET Worker Service", "Windows Service"],
+  "summary": {
+    "pt": "Serviço em background que vigia uma pasta — a de Downloads, por exemplo — e arquiva por extensão o que chega nela. Leve e configurável, roda como Windows Service.",
+    "en": "Background worker service that watches a folder — your Downloads directory, for instance — and files whatever lands there by extension. Lightweight and configurable, runs as a Windows Service."
+  }
+}
